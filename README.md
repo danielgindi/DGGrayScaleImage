@@ -3,9 +3,9 @@ DGGrayScaleImage
 
 A `UIImage` that represents a grayscale version of another `UIImage`. (iOS / ObjC)
 
-There's support for *accurate* (raw) grayscale conversion, *natural* grayscale, and `NTSC natural` grayscale.
+There's support for *accurate* (raw) grayscale conversion, *natural* grayscale, and *NTSC natural* grayscale.
 
-Accurate grayscale means normalizing the colors in RGB space to grayscale range, while natural grayscale means normalizing using special multipliers that represent the amount of each color as perceived by the eye (i.e red will get a stronger gray color because it is emphasized by the brain).
+*Accurate* grayscale means normalizing the colors in RGB space to grayscale range, while *natural* grayscale means normalizing using special multipliers that represent the amount of each color as perceived by the eye (i.e red will get a stronger gray color because it is emphasized by the brain).
 
 This was originally in my other repository https://github.com/danielgindi/drunken-danger-zone/
 
