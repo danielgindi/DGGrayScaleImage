@@ -1,7 +1,7 @@
 DGGrayScaleImage
 ================
 
-A UIImage that represents a grayscale version of another UIImage. (iOS / ObjC)
+A `UIImage` that represents a grayscale version of another `UIImage`. (iOS / ObjC)
 
 There's support for *accurate* (raw) grayscale conversion, *natural* grayscale, and `NTSC natural` grayscale.
 
